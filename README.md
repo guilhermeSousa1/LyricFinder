@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# SongAndLyrics
+This React application is used to search for songs and their lyrics.
+
+## Built With
+* [React](https://reactjs.org/)
+* [Bootstrap](https://getbootstrap.com/)
+* [FontAwesome](https://fontawesome.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
