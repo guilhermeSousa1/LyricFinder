@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# SongAndLyrics
+# LyricFinder
 This React application is used to search for songs and their lyrics.
 
 ## Built With
