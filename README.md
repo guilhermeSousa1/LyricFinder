@@ -6,7 +6,6 @@ This React application is used to search for songs and their lyrics.
 ## Built With
 * [React](https://reactjs.org/)
 * [Bootstrap](https://getbootstrap.com/)
-* [FontAwesome](https://fontawesome.com/)
 
 ## Getting Started
 You can acess this application using [this link](https://songandlyrics1.netlify.com/).
